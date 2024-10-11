@@ -1,4 +1,4 @@
-# Repository for Voluntree - Your Volunteer Management Web System
+# Voluntree - Your Volunteer Management Web System
 
 **How to run the web application**
 1. Clone the repository on the `main` branch.
