@@ -1,4 +1,4 @@
-# Repository for COMP SCI 2207/7207 Web & Database Computing (2024 Semester 1)
+# Repository for Voluntree - Your Volunteer Management Web System
 
 **How to run the web application**
 1. Clone the repository on the `main` branch.
